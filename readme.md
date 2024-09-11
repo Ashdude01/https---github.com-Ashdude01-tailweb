@@ -23,7 +23,7 @@ Before running this project, ensure you have the following installed on your sys
         --OR--
         
 ### Clone the repository
-[https://github.com/Ashdude01/tailweb.git](https://github.com/Ashdude01/tailweb-test.git)
+[https://github.com/Ashdude01/tailweb-test.git](https://github.com/Ashdude01/tailweb-test.git)
 
 ### Install Required Dependency (if required)
 composer install
